@@ -1,4 +1,4 @@
-# Data science hackathon done for ILB DATALAB recruiting process ([ILB DATALAB](https://datalab.institutlouisbachelier.org): Institut Louis Bachelier Datalab)
+# Data science hackathon done for [Institut Louis Bachelier (ILB) DATALAB](https://datalab.institutlouisbachelier.org) recruiting process:
 
 - The final version of the notebook I did is *eraymond-ilb_lab_test_technique2.ipynb*
 - This work covers all data science topics : data unterstanding, cleaning, preprocessing and model design.
